@@ -1,0 +1,6 @@
+{
+    "python.analysis.typeCheckingMode": "basic",
+    "workbench.editorAssociations": {
+        "*.csv": "jupyter-data-wrangler"
+    }
+}
